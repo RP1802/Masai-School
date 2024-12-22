@@ -84,6 +84,8 @@ No. Of Cases In Which Offenders Were Neighbours.
 
 No. Of Cases In Which Offenders Were Other Known Persons.
 
+C:\Users\rites\OneDrive\Pictures\Screenshots\Screenshot 2024-12-22 220632.png
+
 Insights
 
 The number of cases in which offenders were known to the victims has generally increased over the years.
@@ -120,8 +122,6 @@ Contact
 
 For any inquiries or support, please contact:
 
-Name: Your Name
+Name: Ritesh Patil
 
-Email: your.email@example.com
-
-GitHub: Your GitHub Profile
+Email: riteshpatil802@gmail.com
