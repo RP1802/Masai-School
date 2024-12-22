@@ -33,7 +33,9 @@ Patterns and trends in crime data.
 
 Observations on variations across states.
 
-![plot](![plot](C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot 2024-12-22 220632.png))
+![Screenshot 2024-12-22 220632](https://github.com/user-attachments/assets/2e3b04d9-0037-43ed-b77b-08f2229fbe60)
+
+![Screenshot 2024-12-22 220655](https://github.com/user-attachments/assets/4ddf1c6a-b119-4748-bc3e-3d524c719d00)
 
 # Installation
 
