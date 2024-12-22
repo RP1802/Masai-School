@@ -1,19 +1,19 @@
-# Rape Voilence In India
+## Rape Voilence In India
 ![image](https://github.com/user-attachments/assets/815ddcbf-b9b5-4b85-8518-79992310ec1c)
 
 Overview
 
 This project is a Streamlit-based dashboard that analyzes and visualizes data on rape violations in India from 1970 to 2020. The application provides insights into various offender categories and trends over time, aiding in understanding patterns and aiding decision-makers in addressing the issue.
 
-Features
+# Features
 
-Interactive Filters:
+# Interactive Filters:
 
 Select specific years and states to analyze.
 
 Pie chart based on selected year for detailed offender-type analysis.
 
-Visualizations:
+# Visualizations:
 
 Line Chart: Total cases over the years.
 
@@ -27,13 +27,13 @@ Key Performance Indicators (KPIs):
 
 Total cases by offender categories such as parents, relatives, neighbors, etc.
 
-Insights:
+# Insights:
 
 Patterns and trends in crime data.
 
 Observations on variations across states.
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -59,7 +59,7 @@ Preprocessor.py: Utility functions for data processing and filtering.
 
 Rape Violation In INDIA.csv: The dataset used for analysis.
 
-Usage
+# Usage
 
 Launch the dashboard and use the filters to explore data trends and insights.
 
@@ -84,7 +84,7 @@ No. Of Cases In Which Offenders Were Neighbours.
 No. Of Cases In Which Offenders Were Other Known Persons.
 
 
-Insights
+# Insights
 
 The number of cases in which offenders were known to the victims has generally increased over the years.
 
@@ -112,13 +112,6 @@ git push origin feature-name
 
 Create a Pull Request.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-
-For any inquiries or support, please contact:
 
 Name: Ritesh Patil
 
