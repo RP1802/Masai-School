@@ -84,7 +84,7 @@ No. Of Cases In Which Offenders Were Neighbours.
 
 No. Of Cases In Which Offenders Were Other Known Persons.
 
-C:\Users\rites\OneDrive\Pictures\Screenshots\Screenshot 2024-12-22 220632.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fbmcwomenshealth.biomedcentral.com%2Farticles%2F10.1186%2Fs12905-024-03204-x&psig=AOvVaw2D22RjxNchTeRX4fUj5LsR&ust=1734971939577000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCNzaXou4oDFQAAAAAdAAAAABAE
 
 Insights
 
