@@ -35,7 +35,7 @@ Observations on variations across states.
 
 ![Screenshot 2024-12-22 220632](https://github.com/user-attachments/assets/2e3b04d9-0037-43ed-b77b-08f2229fbe60)
 
-![Screenshot 2024-12-22 220655](https://github.com/user-attachments/assets/4ddf1c6a-b119-4748-bc3e-3d524c719d00)
+
 
 # Installation
 
@@ -97,6 +97,8 @@ The highest number of cases involve other known persons as the offenders.
 Significant variations exist in crime data across different states.
 
 Visualizations help in identifying patterns and trends for targeted interventions.
+
+![Screenshot 2024-12-22 220655](https://github.com/user-attachments/assets/4ddf1c6a-b119-4748-bc3e-3d524c719d00)
 
 Contribution
 
